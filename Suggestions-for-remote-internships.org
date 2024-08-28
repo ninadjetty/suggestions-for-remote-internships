@@ -1,0 +1,131 @@
+#+TITLE: Suggestions for remote internships
+#+SUBTITLE: Polite suggestions, not even guidelines.
+#+AUTHOR: Harsh Jain, Ninad R. Jetty
+#+EMAIL: ninad.jetty@gmail.com
+#+ARCHIVE: Suggestions-for-remote-internships-done.org::
+#+STARTUP: content fnlocal fnadjust
+#+LATEX_CLASS: article
+# #+LATEX_CLASS_OPTIONS: [a4paper, 12pt]
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twocolumn]
+# #+SETUPFILE: ../../org/serif.setup
+# #+setupfile: ../../org/serif-wo-hypersetup-fancyheader.setup
+#+setupfile: ./serif-wo-footnotebackref.setup
+
+#+OPTIONS: H:4 num:4
+
+#+LATEX_HEADER: \usepackage[bitstream-charter]{mathdesign}
+
+#+LATEX_HEADER: \usepackage{flushend}
+
+#+TOC: headlines 2
+
+#+LATEX_HEADER: \makeatletter
+#+LATEX_HEADER: \renewcommand{\@makefnmark}{\makebox{\normalfont[\@thefnmark]} }
+#+LATEX_HEADER: \makeatother
+
+* Introduction
+
+This document discusses potential issues that young mentors might encounter in the online (100% remote) setting of WeMR internships.
+Some mentors have had students not responding for a month or so after the initial meeting, especially during their exam months.
+In general, mentors might feel that the students would have been more disciplined if the projects were offline.
+But WeMR internships are by design online, hence the need for this discussion.
+
+Please note that these are just suggestions, not comprehensive guidelines.
+
+* Managing expectations: defining the scope of the project
+It is important to gauge the student's expectations right at the beginning of the project.
+The mentor being an established personality in their field and coming from a reputed institute might give the incorrect impression to the student that a publication might be guaranteed.
+Clear and polite communication from the mentor helps the students have reasonable expectations from the project and prevents them from being disappointed/overwhelmed later.
+
+The student should be told clearly that a report will have to be submitted and a presentation given to earn the project certificate.
+
+* Time-discipline
+This is not even an issue when the student is on campus and meeting the mentor regularly.
+How does one ensure that meeting times and deadlines are respected in a remote setting?
+Having a default frequency for the meeting helps the most, e.g. say a voice/video call every Friday evening around 5 pm.
+Of course meetings can and will happen more frequently depending on the work load, but a bare minimum of once a week is an international standard for most projects.
+
+After initially gauging the student's calibre, the mentor can try to hint at a reasonable deadline at the end of every call, "Will you be able to do this in the next 3 days?"
+Although seemingly passive aggressive, this is a golden mean between decreeing "You should finish this in 3 days!" or completely letting the student free to contact you when the work is done.
+
+Setting clear deadlines for the student is easy, but in our experience the most effective method has been "show, don't tell."
+This can take the form of the mentor apologizing in the next meeting whenever (1) they were busy and hence could not join the previous call, or (2) were overloaded and hence could not check the student's work, or (3) they joined a meeting 10-15 minutes late.
+The mentor's apology demonstrates to the student in no uncertain terms that they take the student, the project, and their mutual time commitments very seriously.
+By doing this, the mentor can give the student the most important lesson apart from their domain-specific knowledge, and that is professionalism!
+
+A side effect of this *implicit, non-verbal communication* is that the student also takes the project seriously, and starts notifying the mentor if they are not going to be able to complete a certain task in time.
+They start answering not the mentor's seniority but to the implicit commitment that the mentor has shown to the project -- a positive kind of stress.
+And most young researchers anyway don't want to explicitly tell these things to students, so it is better to lead by example and let the student pick up from your behaviour.
+# It sets the work culture in a very short time, a way to communicate to the student your commitment to the project.
+
+* Work-discipline: being organized with a shared folder in the cloud
+Having a shared folder between you and the student will help sharing of resources like papers, books, code, plots, and other files.
+Some tips for making the shared folder work best for the both of you:
+1. Name the folders with the date and the topic/experiment whose content they contain. In case there are two topics to be filed on the same day, make two different folders with the same date followed by the different names of the topics/experiments.
+2. The files inside may or may not have the date encoded in them. It is best to use the file name to encode important information about the measurements. For example, if you perform two experiments with two different resistors, then the files should unambiguously contain the resistor values to (1) both distinguish between them and (2) so that we can glean information at a glance.
+
+* Work-discipline: coherent documentation
+Research output will be generated at a steady pace by the student once they get the hang of what is to be done.
+But soon the output will reach a magnitude such that it will be unmanageable without proper documentation.
+The point is to ask the students to write only 1-2 page, plain-text reports in the folder that contain the research output for that day/week.
+A truly simple readme.txt plain text file written in notepad/gedit might suffice to get the student into the habit of writing their commenting on that day's/week's research output.
+
+Students anyway realize the importance of doing this when are trying to make a presentation or writing a report, but which typically happens at the end of the project.
+The point is to just get the students into this habit early on, before the report submission or presentation deadline is close.
+
+Another benefit that a student pointed out was that they were reminded of the details of "what they were thinking when doing the work back then" when going through these small text files.
+Had they not recorded their thoughts back then, they would have forgotten the nuances of their valuable work they had done.
+Often both mentors and students make the mistake of valuing the work based solely on the positive results they obtained.
+But this documentation allows both to appreciate how much work was done by the student, even though some of it did not work out.
+
+* Work-discipline: asking questions and providing references
+Encourage the students to write the questions and doubts they had while working in the plain text report.
+This ensures that important questions are not left unanswered till the report-writing stage, and also builds the student's confidence.
+Students might read and be "inspired by" many things, e.g. a blog post on a certain topic, or a code snippet from StackOverflow, or even code written by ChatGPT.
+As a mentor, it is a good practice not to penalize them for delegating work in this way, but to instead acknowledge and refer their sources liberally.
+
+* Work-discipline: mentor feedback
+The student will, more often than not, do the work that the mentor assigns them.
+But if they don't get timely and detailed feedback on their work, they won't learn.
+Mentors should ensure that as diligently as the students are generating research output in the shared folders, the mentors should equally diligently go through their work and documented notes. Commenting on all aspects -- technical mistakes, writing mistakes, verbiage, etc. -- is helpful for the students.
+Small corrections via frequent feedback throughout the project lead to fewer corrections in the final report/presentation.
+
+* Work-discipline: giving a taste of research work
+As a young mentor yourself, you have done a fair bit of research work and hence you might fall prey to the Dunning Kruger effect.
+In that, good practices that come naturally to you and not to the beginner student might go unnoticed.
+You know that large projects are completed by breaking into small tasks and completing the small tasks on time.
+The student might not and get overwhelmed by the project work, especially when you are not present in-person to allay their anxieties.
+
+Take some time to explain/demonstrate to your student how large projects are broken into smaller tasks.
+Encourage them to work in small steps and report back to you.
+Show how this method of working also minimizes uncertainty that is inherent to research work.
+Let the students have clear, actionable goals at every step, while reminding them that the overall direction of the project is not rigid, but determined on the fly depending on the student's work.
+
+Research is about knowing that uncertainty is a part of the project, but that there are ways to being resilient enough to manage the uncertainty.
+
+* Intellectual humility: preparing for the daily grind of research work
+A final point is about mentorship.
+Often a mentor might not want to acknowledge that they don't know something.
+Removing the emphasis from knowing to thinking is the best solution here.
+I asked my student early on what her career goals were, and she responded with "research."
+With that, whenever she asked me a question that I knew the answer to, I would ask her to try to search for the answer and to report later she arrive at it.
+
+Not only is this good training for research work in the future, but also trains the student for intellectual humility.
+I would tell my student that I could tell her the answer for an easy question right away, but in the course of the project there could come a question that even I could not answer.
+What we would need at that point is the skill to brainstorm a solution together, and it is better to train for that.
+
+* Managing students' stress
+A small amount of stress has positive effects in maintaining motivation.
+One must be careful not to put undue stress on the student for delivering work.
+It might be best to consider re-adjusting the workload according to the student's capacity.
+The aim of WeMR projects is to increase student's confidence in their capabilities.
+Doing a small project that is within their reach is better than aiming for the stars and not even lifting off of the earth.
+
+Positive stress should be from the non-negotiable things, like report submission and presentation deadlines, and not from obstacles created by the guide to test the students' patience or obedience.
+
+* No judgement at WeMR
+WeMR is a different organization.
+The level of a student's project is not important in the larger picture for WeMR.
+What is important is that the student be helped, that they learn something about the field, and something about how to navigate the research work environment.
+We go by the guide's judgement of how the students have done, and do not get the reports reviewed by experts.
+
