@@ -43,8 +43,8 @@ The student should be told clearly that a report will have to be submitted and a
 
 * Time-discipline
 This is not even an issue when the student is on campus and meeting the mentor regularly.
-How does one ensure that meeting times and deadlines are respected in a remote setting?
-Having a default frequency for the meeting helps the most, e.g. say a voice/video call every Friday evening around 5 pm.
+How does one ensure that meeting times and deadlines are reasonable as well as respected in a remote setting?
+Having a default frequency for the meeting helps the most, e.g. say a voice/video call every weekend.
 Of course meetings can and will happen more frequently depending on the work load, but a bare minimum of once a week is an international standard for most projects.
 
 After initially gauging the student's calibre, the mentor can try to hint at a reasonable deadline at the end of every call, "Will you be able to do this in the next 3 days?"
