@@ -29,15 +29,15 @@ This document discusses potential issues that young mentors might encounter in t
 
 WeMR internships are by design completely online, which leads to it's own sets of challenges, hence the need for this discussion.
 In general, mentors might feel that the students would have performed better or been more disciplined if the projects were offline.
-Some mentors have had students not responding for a month or so after the initial meeting, especially during their exam months.
-
+Some mentors have had students not responding for a month or so after the initial meeting, especially during their exam months. Sometimes, students don't have clarity regarding what is expected from them and by when, or mentors may have more than realistic expectations from the project. 
 
 Please note that these are just suggestions, not comprehensive guidelines.
 
 * Managing expectations: defining the scope of the project
+Clear and polite communication from the mentor helps the students have reasonable expectations from the project and prevents them from being disappointed/overwhelmed later.
 It is important to gauge the student's expectations right at the beginning of the project.
 The mentor being an established personality in their field and coming from a reputed institute might give the incorrect impression to the student that a publication might be guaranteed.
-Clear and polite communication from the mentor helps the students have reasonable expectations from the project and prevents them from being disappointed/overwhelmed later.
+
 
 The student should be told clearly that a report will have to be submitted and a presentation given to earn the project certificate.
 
