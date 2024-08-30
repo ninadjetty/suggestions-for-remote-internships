@@ -25,7 +25,7 @@
 
 * Introduction
 
-This document discusses potential issues that young mentors might encounter in the online (100% remote) setting of WeMR internships.
+This document discusses potential issues that young mentors might encounter in the online (100% remote) setting of [[WeMR][https://theskillfoundation.org] internships.
 Some mentors have had students not responding for a month or so after the initial meeting, especially during their exam months.
 In general, mentors might feel that the students would have been more disciplined if the projects were offline.
 But WeMR internships are by design online, hence the need for this discussion.
