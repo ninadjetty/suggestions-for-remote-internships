@@ -1,0 +1,2 @@
+* Syncthing
+To synchronize data from one device to another, Syncthing can be used. Here are the involved steps. 
